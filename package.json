@@ -21,7 +21,7 @@
     "jest": "^23.0.1",
     "microbundle": "^0.4.4"
   },
-  "repository": "https://github.com/mrmartineau/getunit",
+  "repository": "https://github.com/mrmartineau/the-unit",
   "author": "Zander Martineau",
   "keywords": [
     "unit",

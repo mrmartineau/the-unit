@@ -32,7 +32,7 @@ unit("16px"); // 'px'
 
 ## Size
 
-[98 Bytes](https://bundlephobia.com/result?p=getunit)
+[98 Bytes](https://bundlephobia.com/result?p=the-unit)
 
 ## Similar packages
 
