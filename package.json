@@ -1,6 +1,6 @@
 {
   "name": "the-unit",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Parses a number and unit string, and returns the unit used",
   "main": "./dist/the-unit.js",
   "umd:main": "./dist/the-unit.umd.js",
