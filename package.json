@@ -1,6 +1,6 @@
 {
   "name": "getunit",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Parses a number and unit string, and returns the unit used",
   "main": "./dist/getunit.js",
   "umd:main": "./dist/getunit.umd.js",
