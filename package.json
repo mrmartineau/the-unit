@@ -1,0 +1,32 @@
+{
+  "name": "getunit",
+  "version": "0.0.0",
+  "description": "Parses a number and unit string, and returns the unit used",
+  "main": "./dist/getunit.js",
+  "umd:main": "./dist/getunit.umd.js",
+  "module": "./dist/getunit.m.js",
+  "source": "./index.js",
+  "license": "MIT",
+  "scripts": {
+    "test": "jest",
+    "test:watch": "jest --watchAll",
+    "test:coverage": "jest --coverage",
+    "build": "microbundle -o ./dist",
+    "dev": "microbundle watch",
+    "lint": "eslint index.js",
+    "prepublishOnly": "npm run build"
+  },
+  "devDependencies": {
+    "eslint": "^4.19.1",
+    "jest": "^23.0.1",
+    "microbundle": "^0.4.4"
+  },
+  "repository": "https://github.com/mrmartineau/getunit",
+  "author": "Zander Martineau",
+  "keywords": [
+    "unit",
+    "parse unit",
+    "unit parse",
+    "get unit"
+  ]
+}
