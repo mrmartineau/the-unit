@@ -1,4 +1,4 @@
-const getunit = require('./dist/getunit.umd')
+const getunit = require('./dist/the-unit.umd')
 
 test(`getunit`, () => {
   expect(getunit('1.875em')).toBe('em')

@@ -1,10 +1,10 @@
 {
-  "name": "getunit",
+  "name": "the-unit",
   "version": "1.0.0",
   "description": "Parses a number and unit string, and returns the unit used",
-  "main": "./dist/getunit.js",
-  "umd:main": "./dist/getunit.umd.js",
-  "module": "./dist/getunit.m.js",
+  "main": "./dist/the-unit.js",
+  "umd:main": "./dist/the-unit.umd.js",
+  "module": "./dist/the-unit.m.js",
   "source": "./index.js",
   "license": "MIT",
   "scripts": {

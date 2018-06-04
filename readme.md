@@ -1,7 +1,7 @@
 <h1 align="center">
-  getunit
+  the-unit
 
-[![npm](https://img.shields.io/npm/v/getunit.svg?style=flat-square)](https://www.npmjs.com/package/getunit)
+[![npm](https://img.shields.io/npm/v/the-unit.svg?style=flat-square)](https://www.npmjs.com/package/the-unit)
 ![](https://img.shields.io/badge/licence-MIT-blue.svg?style=flat-square)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 
@@ -14,20 +14,20 @@ Unlike some similar packages (see below), this package only returns the unit for
 ## Install
 
 ```sh
-$ yarn add getunit
-$ npm install --save-dev getunit
+$ yarn add the-unit
+$ npm install --save-dev the-unit
 ```
 
 ## Import
 
 ```js
-import getunit from "getunit";
+import unit from "the-unit";
 ```
 
 ## Use
 
 ```js
-getunit("16px"); // 'px'
+unit("16px"); // 'px'
 ```
 
 ## Size
